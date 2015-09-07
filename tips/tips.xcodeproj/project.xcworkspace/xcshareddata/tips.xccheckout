@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9A7AB5D4-C845-4FE1-A1F8-3643659D9CEF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>47AB6AAB58B66367815CDD1287F23C6F56D7EB26</key>
+		<string>github.com:aaur0/ios-project1.git</string>
+		<key>8C08A002045C4C303C063C118BB4E0F3C674E6FF</key>
+		<string>github.com:aaur0/Yoscore.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tips/tips.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>47AB6AAB58B66367815CDD1287F23C6F56D7EB26</key>
+		<string>../../..</string>
+		<key>8C08A002045C4C303C063C118BB4E0F3C674E6FF</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:aaur0/ios-project1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>47AB6AAB58B66367815CDD1287F23C6F56D7EB26</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8C08A002045C4C303C063C118BB4E0F3C674E6FF</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>47AB6AAB58B66367815CDD1287F23C6F56D7EB26</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-project1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
